@@ -536,7 +536,7 @@ $(function() {
 				updateDistrictList(); // MOD #1 地区を追加
 			});
 			ctx.requestLocales(lang);
-		});		
+		});
 	}
 	// ADD E N D #11
 	function getSelectedAreaName() {
@@ -619,7 +619,11 @@ $(function() {
 		//MOD START 2015.02.15 #11 多言語化対応
 		ctx.localize(['selectarea'], function(l10n) {
 			var langs = l10n.reason.locales;
-			var lang = l10n.entities.selectarea.locale;
+			//他言語化を利用する際はこちらをコメントを取って、下の626行目をコメント
+			// var lang = l10n.entities.selectarea.locale;
+
+			//他言語化をja（日本語対応のみに固定するための仮）
+			var lang = "ja";
 //			csvToArray("data/area_days.csv", function(tmp) {
 			csvToArray("data/" + lang + "/area_days.csv", function(tmp) {
 		//MOD E N D 2015.02.15 #11

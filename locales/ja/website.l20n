@@ -1,5 +1,5 @@
 <about """5374.jpについて""">
-<title """5374(ｺﾞﾐﾅｼ).jp 能美市版""">
+<title """5374(ゴミナシ).jp 白山市版""">
 
 <help """
 ゴミの問題は、どの地域でも深刻になりつつあります。
@@ -9,7 +9,7 @@ Code for Kanazawa(金沢)では、先ずは正しいゴミの捨て方に注目�
 <purpose """目的""">
 <purpose_article """
 「いつ、どのゴミが収集されているのか？」
-例えばお引っ越しをされた場合や、新しく能美市に住むことになった時、このアプリを使えば、すぐに分かるようにデザインされています。
+例えばお引っ越しをされた場合や、新しく白山市に住むことになった時、このアプリを使えば、すぐに分かるようにデザインされています。
 """>
 
 <howtouse """使い方""">
@@ -23,9 +23,9 @@ Code for Kanazawa(金沢)では、先ずは正しいゴミの捨て方に注目�
 <setting_article """お住まいの地域を選択することで、ゴミ収集日が自動的に更新されます。""">
 
 <caption """提供されるゴミ情報について""">
-<caption_article1 """能美市が公開しているデータからCfKが独自に解析し、アプリに実装しました。""">
+<caption_article1 """白山市が公開しているデータからCfKが独自に解析し、アプリに実装しました。""">
 <caption_article2 """公開データ :</br>
-<a href="http://www.city.nomi.ishikawa.jp/seikatsu/26_gomi_calendar_2.html" style="color: #FF0000;text-decoration: underline;">平成27年度ごみ収集カレンダー</a>""">
+<a href="http://www.city.hakusan.ishikawa.jp/data/open/cnt/3/9764/1/H30_gomi-nittei.pdf" style="color: #FF0000;text-decoration: underline;">平成30年度ごみ収集カレンダー</a>""">
 
 <license """ライセンスについて""">
 <license_article """本アプリの著作権はCode for Kanazawa(金沢)に帰属します。""">
